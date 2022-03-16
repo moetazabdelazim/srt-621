@@ -1,0 +1,17 @@
+{
+  "name": "lab-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "http-status-code": "^2.1.0",
+    "http-status-codes": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
